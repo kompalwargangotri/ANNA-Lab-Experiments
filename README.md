@@ -1,7 +1,14 @@
-# 🧠 Advanced Neural Network Architectures (ANNA) - Lab Experiments
+# 🧠 Advanced Neural Network Architectures (ANNA) Lab Experiments
 
-This repository contains all laboratory experiments completed as part of the **Advanced Neural Network Architectures (ANNA)** course. The experiments focus on implementing and evaluating deep learning models using **Python**, **TensorFlow**, and **Keras**.
+This repository contains laboratory experiments and projects completed as part of the **Advanced Neural Network Architectures (ANNA)** course. It provides hands-on implementations of modern deep learning architectures and techniques using **Python**, **TensorFlow**, and **Keras**.
 
+## 📚 Course Modules
+
+- **Unit 1:** The Foundation – ANN, Computation & Optimization
+- **Unit 2:** Spatial Awareness – CNNs & Explainable AI
+- **Unit 3:** Vision in Action – Object Detection & Segmentation
+- **Unit 4:** Sequential Logic – RNNs & Transformers
+- **Unit 5:** The Generative Frontier – Generative AI & LLMs
 ---
 
 ## 📚 Course Overview
