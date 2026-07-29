@@ -118,5 +118,3 @@ jupyter notebook
 This repository is created for educational purposes as part of the **Advanced Neural Network Architectures (ANNA)** course.
 
 ---
-
-⭐ If you find this repository useful, consider giving it a star.
