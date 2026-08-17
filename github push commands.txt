@@ -1,0 +1,10 @@
+git add .
+git commit -m "Add Experiment 02: <Experiment Name>"
+git push
+
+
+For Example
+
+git add .
+git commit -m "Add Experiment 02: CNN Image Classification"
+git push
