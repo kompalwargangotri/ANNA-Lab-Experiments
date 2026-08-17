@@ -1,19 +1,16 @@
 # 🧠 Advanced Neural Network Architectures (ANNA) - Lab Experiments
 
-This repository contains all laboratory experiments completed as part of the **Advanced Neural Network Architectures (ANNA)** course. The experiments focus on implementing and evaluating deep learning models using **Python**, **TensorFlow**, and **Keras**.
+This repository contains laboratory experiments and projects completed as part of the **Advanced Neural Network Architectures (ANNA)** course. It provides hands-on implementations of modern deep learning architectures and techniques using **Python**, **TensorFlow**, and **Keras**.
 
 ---
 
-## 📚 Course Overview
+## 📚 Course Modules
 
-The ANNA course covers the fundamentals and practical implementation of advanced neural network architectures, including:
-
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Deep Learning Concepts
-- Model Training & Evaluation
-- Performance Analysis and Visualization
+- **Unit 1:** The Foundation – ANN, Computation & Optimization
+- **Unit 2:** Spatial Awareness – CNNs & Explainable AI
+- **Unit 3:** Vision in Action – Object Detection & Segmentation
+- **Unit 4:** Sequential Logic – RNNs & Transformers
+- **Unit 5:** The Generative Frontier – Generative AI & LLMs
 
 ---
 
@@ -56,8 +53,18 @@ ANNA-Lab-Experiments/
 │   ├── README.md
 │   └── outputs/
 │
-├── Experiment-02/
-├── Experiment-03/
+├── Experiment_2/
+│   ├── 202402070020_Gangotri_Kompalwar_Experiment_2.docx
+│   ├── 202402070020_Gangotri_Kompalwar_Experiment_2.pdf
+│   ├── Experiment_2.ipynb
+│   └── experiment_2.py
+│
+├── Experiment_3/
+│   ├── 202402070020_Gangotri_Kompalwar_Experiment_3.docx
+│   ├── 202402070020_Gangotri_Kompalwar_Experiment_3.pdf
+│   ├── Experiment_3.ipynb
+│   └── experiment_3.py
+│
 ├── Experiment-04/
 └── datasets/
 ```
